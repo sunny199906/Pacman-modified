@@ -5,5 +5,3 @@ Screenshots: <br>
 ![sth](/images/2.PNG)<br>
 ![sth](/images/3.PNG)<br>
 ![sth](/images/4.PNG)<br>
-![sth](/images/5.PNG)<br>
-![sth](/images/6.PNG)<br>
